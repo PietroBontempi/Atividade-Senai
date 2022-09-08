@@ -1,0 +1,270 @@
+/* ID'S */
+#cabecalho{
+    background: #000408;
+}
+
+#logo-caixa{
+    position: relative;
+    margin: auto;
+    margin-left: 100px;
+}
+
+#logo-caixa h1{
+    text-indent: 9000px;
+}
+
+
+#navbar{
+    position: absolute;
+    top: 40px;
+    right: 90px;
+}
+
+#navbar ul{
+    list-style: none;
+    margin-right: 100px;
+}
+
+#navbar li{
+    display: inline;
+    margin: 0 0 0 15px;
+    padding: 15px;
+}
+
+
+#navbar ul li a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#navbar ul li a:hover{
+    color: #bf0507;
+}
+
+#inicio{
+    height: 800px;
+}
+
+#caixa-inicio{
+    text-align: center;
+    color:#fff;
+    background: url(img/fundo-inicio.jpg);
+    position: relative;
+    height: 100%;
+	background-repeat: no-repeat ;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+    padding-top: 270px;
+}
+
+#caixa-inicio h1{
+    font-size: 3.5em;
+}
+
+#caixa-historia{
+    padding: 5px;
+    text-align: center;
+    color: #000408;
+    background: url(img/detalhe.png);
+}
+
+#caixa-historia h2{
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#caixa-historia p{
+    font-size: 1.2em;
+    text-align: justify;
+
+}
+
+#mapa{
+    height: 800px
+}
+
+#caixa-mapa{
+    text-align: center;
+    color: #bf0507;
+    background: url(img/fundo-mapa.jpg);
+    position: relative;
+    height: 100%;
+	background-repeat: no-repeat ;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+    padding-top: 170px;
+}
+
+#caixa-mapa iframe{
+    margin-left: 400px;
+}
+
+#caixa-mapa h1{
+    font-size: 2.5em;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+#marcas{
+    height: 900px;
+}
+
+#caixa-marcas{
+    text-align: center;
+    color: #000408;
+    background: url(img/fundo-marcas.jpg);
+    position: relative;
+    height: 100%;
+	background-repeat: no-repeat ;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+    padding-top: 100px;
+}
+
+#caixa-marcas button{
+    margin-top: 20px;
+}
+
+#promo{
+    height: 1150px;
+}
+
+#caixa-promo{
+    text-align: center;
+    color: #000408;
+    background: url(img/fundo-marcas.jpg);
+    position: relative;
+    height: 100%;
+	background-repeat: no-repeat ;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+    padding-top: 100px;
+}
+#caixa-promo div{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#video{
+    height: 800px;
+}
+
+#caixa-video{
+    text-align: center;
+    color: #000408;
+    background: url(img/fundo-video.jpg);
+    position: relative;
+    height: 100%;
+	background-repeat: no-repeat ;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+    padding-top: 80px;
+}
+
+#caixa-video h1{
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#caixa-video iframe{
+    margin-top: 50px;
+}
+
+#caixa-video span{
+    color:#bf0507
+}
+
+#contato{
+    height: 1000px;
+}
+
+#caixa-contato{
+    text-align: center;
+    color:#fff;
+    background: url(img/fundo-contato.jpg);
+    position: relative;
+    height: 100%;
+	background-repeat: no-repeat ;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+    padding-top: 220px;
+}
+
+#caixa-contato div{
+    margin: 30px;
+}
+
+#caixa-contato input, select, textarea{
+    border: 1px solid black;
+}
+
+#caixa-contato textarea{
+    width: 500px;
+    height:300px
+}
+
+#caixa-contato h1{
+    -webkit-text-stroke-color: #000408;
+    -webkit-text-stroke-width: 1.5px; 
+}
+
+#rodape{
+    background-color: #000408;
+}
+
+#caixa-rodape{
+    text-align: center;
+    color:#fff;
+    position: relative;
+    height: 100%;
+	background-repeat: no-repeat ;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+    padding-top: 50px;
+}
+
+#caixa-rodape h4{
+    letter-spacing: 2px;
+
+}
+
+#caixa-rodape h6{
+    margin-top: 25px;
+}
+
+#caixa-rodape a{
+    color: #fff;
+    text-decoration: none;
+}
+
+#caixa-rodape a:hover{
+    color: #bf0507;
+}
+/* ID'S */
+
+/* Tipografia Geral */
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 2;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* Tipografia Geral */
+
